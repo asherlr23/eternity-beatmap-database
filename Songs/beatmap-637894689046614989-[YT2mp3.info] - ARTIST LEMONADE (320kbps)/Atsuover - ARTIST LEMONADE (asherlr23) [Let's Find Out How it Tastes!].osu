@@ -1,0 +1,65 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 0
+
+[Editor]
+DistanceSpacing: 0.8
+BeatDivisor: 12
+GridSize: 32
+TimelineZoom: 1
+
+[Metadata]
+Title:ARTIST LEMONADE
+TitleUnicode:ARTIST LEMONADE
+Artist:Atsuover
+ArtistUnicode:Atsuover
+Creator:asherlr23
+Version:Let's Find Out How it Tastes!
+Source:
+Tags:
+BeatmapID:0
+BeatmapSetID:-1
+
+[Difficulty]
+HPDrainRate:6
+CircleSize:5.6
+OverallDifficulty:4
+ApproachRate:9
+SliderMultiplier:2.5
+SliderTickRate:4
+
+[Events]
+//Background and Video events
+Video,0,"[YT2mp3.info] - ARTIST LEMONADE.mp4"
+0,0,"aritlemonade.png",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+37724.7425540045,377.358490566038,4,1,0,100,1,0
+
+
+[HitObjects]
+47,89,2253,5,0,0:0:0:0:
+120,177,2441,1,0,0:0:0:0:
+182,162,2630,2,0,P|207:231|159:251,1,125
+206,309,3007,1,0,0:0:0:0:
+258,161,3196,2,0,L|266:292,1,125
+297,326,3573,2,0,P|432:326|432:326,2,125
+132,169,4548,5,0,0:0:0:0:
+311,202,4674,1,0,0:0:0:0:
+323,196,4863,1,0,0:0:0:0:

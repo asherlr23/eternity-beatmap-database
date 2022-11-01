@@ -1,0 +1,102 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+Bookmarks: 6197
+DistanceSpacing: 1.2
+BeatDivisor: 4
+GridSize: 16
+TimelineZoom: 1
+
+[Metadata]
+Title:Merp Merp
+TitleUnicode:Merp Merp
+Artist:Schtiffles
+ArtistUnicode:Schtiffles
+Creator:R3formed
+Version:Buzzing
+Source:
+Tags:
+BeatmapID:0
+BeatmapSetID:-1
+
+[Difficulty]
+HPDrainRate:6
+CircleSize:5
+OverallDifficulty:8
+ApproachRate:9.5
+SliderMultiplier:2
+SliderTickRate:4
+
+[Events]
+//Background and Video events
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+106,468.566966028895,4,2,0,100,1,0
+106,-62.5,4,2,0,100,0,0
+223,-62.5,4,2,0,5,0,0
+340,-83.3333333333333,4,2,0,100,0,0
+457,-83.3333333333333,4,2,0,5,0,0
+574,-125,4,2,0,100,0,0
+691,-125,4,2,0,5,0,0
+808,-125,4,2,0,100,0,0
+3737,-125,4,2,0,5,0,0
+3854,-125,4,2,0,100,0,0
+3971,-125,4,2,0,5,0,0
+4088,-125,4,2,0,100,0,0
+4205,-125,4,2,0,5,0,0
+4323,-83.3333333333333,4,2,0,100,0,0
+4323,-83.3333333333333,4,2,0,100,0,0
+4557,-62.5,4,2,0,100,0,0
+4791,-125,4,2,0,100,0,0
+7603,-62.5,4,2,0,100,0,0
+7837,-83.3333333333333,4,2,0,100,0,0
+8071,-125,4,2,0,100,0,0
+9477,-100,4,2,0,100,0,0
+10414,-71.4285714285714,4,2,0,100,0,0
+10531,-71.4285714285714,4,2,0,5,0,0
+10765,-71.4285714285714,4,2,0,100,0,0
+10883,-71.4285714285714,4,2,0,5,0,0
+11117,-55.5555555555556,4,2,0,100,0,0
+11351,-125,4,2,0,100,0,0
+
+
+[Colours]
+Combo1 : 255,255,255
+Combo2 : 252,255,117
+
+[HitObjects]
+122,111,106,5,0,0:0:0:0:
+144,273,340,1,0,0:0:0:0:
+259,160,691,2,0,B|209:198|181:194|155:189,1,80
+107,135,1394,5,0,0:0:0:0:
+182,153,1628,2,0,L|165:263,1,80
+237,271,2097,1,0,0:0:0:0:
+95,143,2565,1,0,0:0:0:0:
+220,114,2917,5,0,0:0:0:0:
+234,136,3034,5,0,0:0:0:0:
+245,160,3151,5,0,0:0:0:0:
+249,187,3268,5,0,0:0:0:0:
+243,213,3385,5,0,0:0:0:0:
+229,235,3502,5,0,0:0:0:0:
+208,253,3619,5,0,0:0:0:0:
+185,266,3736,5,0,0:0:0:0:
+337,237,3971,2,0,P|283:231|279:270,1,80
+270,315,4323,2,0,P|324:321|328:282,1,80

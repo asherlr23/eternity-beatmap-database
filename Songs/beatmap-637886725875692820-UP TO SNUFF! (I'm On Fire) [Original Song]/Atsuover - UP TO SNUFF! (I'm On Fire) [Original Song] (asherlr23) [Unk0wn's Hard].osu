@@ -1,0 +1,81 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 1
+Mode: 0
+LetterboxInBreaks: 1
+WidescreenStoryboard: 0
+
+[Editor]
+DistanceSpacing: 0.8
+BeatDivisor: 12
+GridSize: 32
+TimelineZoom: 1
+
+[Metadata]
+Title:UP TO SNUFF! (I'm On Fire) [Original Song]
+TitleUnicode:UP TO SNUFF! (I'm On Fire) [Original Song]
+Artist:Atsuover
+ArtistUnicode:Atsuover
+Creator:asherlr23
+Version:Unk0wn's Hard
+Source:
+Tags:
+BeatmapID:0
+BeatmapSetID:-1
+
+[Difficulty]
+HPDrainRate:5
+CircleSize:5
+OverallDifficulty:5
+ApproachRate:9
+SliderMultiplier:2.1
+SliderTickRate:3
+
+[Events]
+//Background and Video events
+Video,0,"UP TO SNUFF! (I'm On Fire) [Original Song].mp4"
+0,0,"maxresdefault.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+57.8880170296834,438.917337234821,4,1,0,100,1,0
+7020,-100,4,1,0,100,0,1
+21019,-100,4,1,0,100,0,0
+
+
+[Colours]
+Combo1 : 233,175,69
+Combo2 : 255,21,21
+
+[HitObjects]
+193,173,6202,5,0,0:0:0:0:
+261,138,6422,2,0,L|312:233,2,105
+77,142,7331,5,0,0:0:0:0:
+302,138,7556,2,0,B|326:214|306:243|293:248,1,90
+416,192,7958,1,0,0:0:0:0:
+352,256,8177,1,0,0:0:0:0:
+352,256,8287,1,0,0:0:0:0:
+352,256,8397,2,0,P|288:224|288:192,2,105
+416,320,9055,6,0,L|416:192,1,122.5
+320,192,9494,1,0,0:0:0:0:
+384,224,9714,1,0,0:0:0:0:
+197,202,9933,2,0,P|232:254|233:255,2,52.5
+117,232,10372,1,0,0:0:0:0:
+164,279,10591,2,0,B|221:312|241:298|264:263,1,105
+231,170,10994,2,0,B|280:141|300:130|331:154,1,105
+349,227,11396,5,0,0:0:0:0:
+134,211,11652,1,0,0:0:0:0:
+200,173,11762,2,0,P|231:221|231:227,1,52.5
+189,260,12091,1,0,0:0:0:0:
